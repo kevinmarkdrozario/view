@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #faf3dd;
+}
+
+div {
+  background-color: #faf3dd;
+  position: relative;
+  padding-top: 100px;
+     }
+
+h1 {
+  margin: 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #F08080;
+   }
+
+ h2 {
+
+     font-family: 'Montserrat', sans-serif;
+     color: #F08080;
+      }
+
+      p
+       {
+
+          font-family: 'Montserrat', sans-serif;
+          color: #050505;
+          font-weight: 500;
+          line-height: 170%;
+           }
+
+h3 {
+
+        font-family: 'Open sans', sans-serif;
+         }
+
+.mountain {
+  width: 50%;
+  height:50%;
+  margin-top: -30px;
+}
+
+.profile{
+  border-radius: 100%;
+  margin-top: -100px;
+
+}
+
+.middle-container {
+  width: 100%;
+  text-align:center;
+  background-color: #faf3dd;
+
+}
+
+.bottom-container {
+  background-color: #fff48f;
+  margin-top: 30px;
+  padding-top: 15px;
+}
+
+
+.unicorn {
+  width: 30%;
+  height:30%;
+}
+
+.alien {
+  width: 40%;
+  height:40%;
+  margin-top: -100px;
+}
+
+.eye {
+  width: 20%;
+  height:20%;
+}
+.Skills {
+  margin-top: -300px;
+}
+
+.subhead {
+  font-size: 1.875rem;
+  font-weight: 500;
+  color: #F08080;
+}
+
+
+
+.bad{
+  margin-top: -70px;
+}
+
+.bad1{
+  margin-top: 1px;
+}
+
+.bad2{
+  margin-top: -30px;
+}
+
+.alien2 {
+
+  margin-top: -50px;
+}
+
+
+.button {
+  background-color: #febf63;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+
+.button:hover {
+  background-color: white;
+  border: none;
+  color: #febf63;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.last {
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+
+.footer-link {
+  font-family: 'Open sans', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #41444b;
+  padding-top: 0;
+  margin-top: 10px;
+
+}
+
+hr {
+  border: dotted #F08080 6px;
+  border-bottom: none;
+  width: 5%;
+  margin-top: 20px;
+  margin-bottom: 170px;
+}
